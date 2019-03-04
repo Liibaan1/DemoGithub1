@@ -43,6 +43,8 @@
 </main>
 <footer> <!-- hier komen copyrightinformatie en contactgegevens te staan-->
 </footer>
-
+<?php
+<echo 'Hello world';
+?>
 </body>
 </html>
